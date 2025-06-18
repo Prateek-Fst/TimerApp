@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "caaa8bc2-2c75-4ced-875c-8c214c25292d"
       }
+    },
+    "android": {
+      "package": "com.prateek1234.exponativewind"
     }
   }
 }
