@@ -56,9 +56,9 @@ A full-featured React Native app for creating, managing, and tracking categorize
 
 ## 🚀 Setup Instructions
 
-1. **Clone the repo install dependencies and finally run and create aok usinf expo**
+1. **Clone the repo install dependencies and finally run and create apk using expo**
    ```bash
-   git clone https://github.com/prateek-fst/TimerApp.git
+   https://github.com/Prateek-Fst/TimerApp.git
    cd timer-management-app
    npm install
    npx expo start
