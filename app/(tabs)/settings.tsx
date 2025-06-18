@@ -148,10 +148,6 @@ export default function SettingsScreen() {
               A powerful and intuitive timer management app built with React Native and Expo. 
               Create, organize, and track your timers with ease.
             </Text>
-            {/* <TouchableOpacity style={styles.githubButton}>
-              <Github size={16} color="#FFFFFF" />
-              <Text style={styles.githubButtonText}>View on GitHub</Text>
-            </TouchableOpacity> */}
           </View>
         </View>
 
